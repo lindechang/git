@@ -3,8 +3,8 @@
 ##git安装
 ##git指令
 
-git add . 添加
-git commit -m "first commit" 提交
+- git add . 添加
+- git commit -m "first commit" 提交
 
 
 
